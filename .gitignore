@@ -1,2 +1,4 @@
 __pycache__
 chrome_langchain_db
+venv
+venv/pyvenv.cfg
